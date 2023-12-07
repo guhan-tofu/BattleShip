@@ -36,3 +36,8 @@ You will also need to install these plugins
 To run the tests, use the following command in terminal:
 
 `pytest`
+
+## Details
+Authors: Sri Guhan
+License: This project is licensed under the MIT License - see the LICENSE file for details.
+Source: GitHub Repository
