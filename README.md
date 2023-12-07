@@ -19,7 +19,8 @@ To play the Battleship game, follow these steps:
 3) Follow the on-screen instructions to place your battleships and start the game.
 
 ## Testing
-all test is present in a tests folder where each file contains the keyword "test". 
+All test is present in a tests folder where each file contains the keyword "test". 
+
 Pytest is an external python library and so needs to be installed using pip
 `pip install pytest`
 You will also need to install these plugins
