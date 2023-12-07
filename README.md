@@ -8,4 +8,4 @@ This project is an application of the classic Battleship game. It allows a playe
 - Python 3.7 or higher
 
 ## Installation
-'$ pip install -U Flask'
+`$ pip install -U Flask`
