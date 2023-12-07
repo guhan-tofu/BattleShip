@@ -38,6 +38,7 @@ To run the tests, use the following command in terminal:
 `pytest`
 
 ## Details
-Authors: Sri Guhan
-License: This project is licensed under the MIT License - see the LICENSE file for details.
-Source: GitHub Repository
+
+* **Authors:** Your Name
+* **License:** This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+* **Source:** [GitHub Repository](https://github.com/guhan-tofu/BattleShip)
