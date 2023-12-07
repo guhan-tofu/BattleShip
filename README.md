@@ -16,7 +16,7 @@ Pytest is an external python library and so needs to be installed using pip
 To play the Battleship game, follow these steps:
 1) In your Terminal or cmd, change directory using this command
 
-`cd Downloads/Battleships`
+   `cd Downloads/Battleships`
 
 2) Run the main application:
 
@@ -39,10 +39,10 @@ You will also need to install these plugins
 
 To run the tests, use the following command in terminal:
 
-`pytest`
+`python -m pytest` or `pytest`
 
 ## Details
 
-* **Authors:** Your Name
+* **Authors:** Sri Guhan
 * **License:** This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 * **Source:** [GitHub Repository](https://github.com/guhan-tofu/BattleShip)
