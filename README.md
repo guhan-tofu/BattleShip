@@ -14,9 +14,13 @@ Pytest is an external python library and so needs to be installed using pip
 
 ## Getting started
 To play the Battleship game, follow these steps:
-1) Run the main application:
+1) In your Terminal or cmd, change directory using this command
 
-   `python main.py`
+`cd Downloads/Battleships`
+
+2) Run the main application:
+
+   `flask --app main run`
 3) Open your web browser and navigate to http://localhost:5000/placement
 4) Follow the on-screen instructions to place your battleships and start the game.
 
