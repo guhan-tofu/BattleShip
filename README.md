@@ -23,8 +23,10 @@ All test is present in a tests folder where each file contains the keyword "test
 
 Pytest is an external python library and so needs to be installed using pip
 `pip install pytest`
+
 You will also need to install these plugins
-``pip install pytest-depends
-pip install pytest-cov``
-To run the tests, use the following command:
+`pip install pytest-depends`
+`pip install pytest-cov`
+
+To run the tests, use the following command in terminal:
 `pytest`
