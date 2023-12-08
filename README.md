@@ -19,7 +19,7 @@ for more information check out the official [flask](https://flask.palletsproject
 ## Getting started
 To play the Battleship game, follow these steps:
 1) Type cd followed by a space in the command prompt window
-2) Drag and drop the folder you want to browse into the window and press Enter
+2) Drag and drop the battleship folder into the window and press Enter
 
 Windows:
 
