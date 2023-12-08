@@ -14,6 +14,8 @@ Flask is an external python library and so needs to be installed using pip
 
 `pip install -U Flask`
 
+for more information check out the official flask documentation: 
+
 ## Getting started
 To play the Battleship game, follow these steps:
 1) Type cd followed by a space in the command prompt window
