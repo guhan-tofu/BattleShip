@@ -3,6 +3,8 @@
 ## Introduction
 This project is an application of the classic Battleship game. It allows a player to place their battleships on a grid and take turns attacking the AI opponent's grid to sink their ships until one of the players have sunk all the ships.
 
+
+
 ## Prerequisites
 
 - Python 3.7 or higher
@@ -20,15 +22,16 @@ To play the Battleship game, follow these steps:
 Windows:
 
    `cd C:\Users\user\Downloads\battleship`
+   
 MacOS:
 
    `cd /Users/username/Downloads/battleship`
 
-4) Run the main application:
+3) Run the main application:
 
    `flask --app main run`
-5) Open your web browser and navigate to http://localhost:5000/placement
-6) Follow the on-screen instructions to place your battleships and start the game.
+4) Open your web browser and navigate to http://localhost:5000/placement
+5) Follow the on-screen instructions to place your battleships and start the game.
 
 ## Testing
 All test is present in a tests folder where each file contains the keyword "test". 
@@ -45,7 +48,13 @@ You will also need to install these plugins
 
 To run the tests, use the following command in terminal:
 
-`python -m pytest` or `pytest`
+Windows:
+
+`python -m pytest` 
+
+MacOS:
+
+`pytest`
 
 ## Details
 
