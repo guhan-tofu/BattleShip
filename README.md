@@ -16,7 +16,7 @@ Pytest is an external python library and so needs to be installed using pip
 To play the Battleship game, follow these steps:
 1) In your Terminal or cmd, change directory using this command
 
-   `cd Downloads/Battleships`
+   `cd -/Downloads/battleship`
 
 2) Run the main application:
 
