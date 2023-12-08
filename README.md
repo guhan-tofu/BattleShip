@@ -48,7 +48,7 @@ You will also need to install these plugins
 
 `pip install pytest-cov`
 
-To run the tests, use the following command in terminal:
+To run the tests, use the following command:
 
 Windows:
 
