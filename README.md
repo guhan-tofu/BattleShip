@@ -18,8 +18,10 @@ To play the Battleship game, follow these steps:
 2) Drag and drop the folder you want to browse into the window and press Enter
 
 Windows:
+
    `cd C:\Users\user\Downloads\battleship`
 MacOS:
+
    `cd /Users/username/Downloads/battleship`
 
 4) Run the main application:
