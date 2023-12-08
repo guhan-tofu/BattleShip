@@ -14,12 +14,16 @@ Flask is an external python library and so needs to be installed using pip
 
 `pip install -U Flask`
 
+To check the flask version use:
+   `flask --version`
+
 for more information check out the official [flask](https://flask.palletsprojects.com/en/3.0.x/installation/) documentation: 
 
 ## Getting started
 To play the Battleship game, follow these steps:
-1) Type cd followed by a space in the command prompt window
-2) Drag and drop the battleship folder into the window and press Enter
+1) Download the zip file and preferably drag battleship folder into dekstop
+2) Type cd followed by a space in the cmd or terminal window
+3) Drag and drop the battleship folder into the window and press Enter
 
 Windows:
 
@@ -29,11 +33,11 @@ MacOS:
 
    `cd /Users/username/Downloads/battleship`
 
-3) Run the main application:
+4) Run the main application:
 
    `flask --app main run`
-4) Open your web browser and navigate to http://localhost:5000/placement
-5) Follow the on-screen instructions to place your battleships and start the game.
+5) Open your web browser and navigate to http://localhost:5000/placement
+6) Follow the on-screen instructions to place your battleships and start the game.
 
 ## Testing
 All test is present in a tests folder where each file contains the keyword "test". 
